@@ -54,6 +54,24 @@ export const projectsData = [
       liveLink: "https://netlify.com",
       codeLink: "https://github.com",
     },
+
+     {
+      id: 7,
+      image: Work1,
+      title: "Chakra UI project 1",
+      category: "chakra UI",
+      liveLink: "https://netlify.com",
+      codeLink: "https://github.com",
+    },
+
+     {
+      id: 8,
+      image: Work3,
+      title: "Chakra UI project 2",
+      category: "chakra UI",
+      liveLink: "https://netlify.com",
+      codeLink: "https://github.com",
+    },
   ];
 
 
@@ -69,5 +87,8 @@ export const projectsData = [
     },
     {
         name: "javascript",
+    },
+    {
+      name: "chakra UI",
     },
   ];
